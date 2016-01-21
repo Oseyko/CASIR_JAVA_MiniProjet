@@ -1,0 +1,26 @@
+<etudiants>
+	<etudiant>
+		<id>1</id>
+		<nom>Bocage</nom>
+		<prenom>Sylvain</prenom>
+		<groupe>1</groupe>
+	</etudiant>
+	<etudiant>
+		<id>2</id>
+		<nom>Grenier</nom>
+		<prenom>Antoine</prenom>
+		<groupe>2</groupe>
+	</etudiant>
+	<etudiant>
+		<id>3</id>
+		<nom>Walger</nom>
+		<prenom>Nicolas</prenom>
+		<groupe>1</groupe>
+	</etudiant>
+	<etudiant>
+		<id>4</id>
+		<nom>Carrier</nom>
+		<prenom>Antoine</prenom>
+		<groupe>2</groupe>
+	</etudiant>
+</etudiants>
